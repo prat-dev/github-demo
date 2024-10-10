@@ -1,10 +1,1 @@
-echo "# github-demo" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/prat-dev/github-demo.git
-git push -u origin main
-prateek dev
-<br>
-
+<h1>prat dev</h1>
